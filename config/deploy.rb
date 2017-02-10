@@ -2,7 +2,7 @@
 lock "3.7.2"
 
 set :application, "contactbook"
-set :repo_url, "https://trustwasusopon@github.com/awsapp"
+set :repo_url, "https://github.com/trustwasusopon/awsapp.git"
 
 #add more configurations for deployment to AWS (Trust-written)
 set :branch, :master
